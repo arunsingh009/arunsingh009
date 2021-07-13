@@ -8,5 +8,6 @@
 arunsingh009/arunsingh009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![ Arun Kumar Singh Github stats](https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight)
 ![counter](https://[YourEndpoint].m.pipedream.net)
+<!-- ![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharmaGayatri&show_icons=true&theme=tokyonight) -->
