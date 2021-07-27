@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 # My GitHub Stats 📊
 ![ Arun Kumar Singh Github stats](https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight)
 
-#Streaks
+# Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009)](https://git.io/streak-stats)
 
