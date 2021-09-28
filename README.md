@@ -15,9 +15,19 @@ You can click the Preview link to take a look at your changes.
 ![Visitiors](https://komarev.com/ghpvc/?username=arunsingh009)
 
 <!-- Arun singh github stats -->
-# My GitHub Stats 📊
-![ Arun Kumar Singh Github stats](https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight)
+# My GitHub Stats  📈 
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunsingh009&theme=radical)](https://git.io/streak-stats)
+![ Arun Kumar Singh Github stats](https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight)-->
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=highcontrast" />
+</p>
 
-# Streaks
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunsingh009&theme=radical)](https://git.io/streak-stats)
+
+# Contribution
+<a href="https://github.com/AnshumanDhiman/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=arunsingh009&theme=react-dark&hide_border=true">
+  </a>
+
+<!-- # Streaks -->
 
