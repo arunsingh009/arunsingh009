@@ -18,14 +18,13 @@ You can click the Preview link to take a look at your changes.
 # My GitHub Stats  📈 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunsingh009&theme=radical)](https://git.io/streak-stats)
 ![ Arun Kumar Singh Github stats](https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight)-->
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=highcontrast" />
-</p>
-
-
-# Contribution
-<a href="https://github.com/AnshumanDhiman/github-readme-activity-graph">
+<br>
+<div>
+	<img align="left"   src="https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=highcontrast" />
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009" />
+        <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=highcontrast" />
+</div>
+<a href="https://github.com/arunsingh009/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=arunsingh009&theme=react-dark&hide_border=true">
   </a>
 
