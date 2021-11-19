@@ -29,4 +29,5 @@ You can click the Preview link to take a look at your changes.
   </a>
 
 <!-- # Streaks -->
-
+### Visitor Count
+<img src="https://profile-counter.glitch.me/arounsingh009/count.svg">
