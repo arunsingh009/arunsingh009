@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 <!-- Arun singh github stats -->
 # My GitHub Stats  📈 
 ![technology used](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunsingh009&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunsingh009&theme=radical)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=dark)](https://git.io/streak-stats)
+
 ![ Arun Kumar Singh Github stats](https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight)
 
 <br>
