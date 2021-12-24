@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/arunsingh009/arunsingh009/master/soc/snake.svg)
+![snake gif](https://github.com/arunsingh009/arunsingh009/blob/output/github-contribution-grid-snake.gif)
