@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ftrasvent)](https://www.linkedin.com/in/arun-singh-a66266176/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&link=https://github.com/ftrasvent)](https://github.com/arunsingh009)
-![Visitiors](https://komarev.com/ghpvc/?username=arunsingh009)
+<!--![Visitiors](https://komarev.com/ghpvc/?username=arunsingh009)-->
 
 <!-- Arun singh github stats -->
 # My GitHub Stats  📈 
