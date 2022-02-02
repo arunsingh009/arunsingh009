@@ -14,8 +14,20 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&link=https://github.com/ftrasvent)](https://github.com/arunsingh009)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/in/ftrasvent)](https://www.instagram.com/arunsinghh0909/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/in/ftrasvent)](https://twitter.com/arunsingh641997)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=Gmail&logoColor=white&link=https://Gmail.com/in/ftrasvent)](https://twitter.com/arunsingh641997@gmail.com)
-<!--![Visitiors](https://komarev.com/ghpvc/?username=arunsingh009)-->
+
+## 🚀 Frameworks I used!
+
+- ![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap5&logoColor=white)
+- ![React Badge](https://img.shields.io/badge/React-20232A?style=plastic&logo=bootstrap5&logoColor=61DAFB) 
+
+## 👩‍💻  Languages I used!
+
+- ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+- ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css5&logoColor=white)
+- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+- ![C Badge](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+  ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+
 
 
 <!-- Arun singh github stats -->
