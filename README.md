@@ -32,15 +32,21 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Arun singh github stats -->
 # My GitHub Stats  📈 
-![technology used](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009&hide=hack)
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunsingh009&theme=radical)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=dark)](https://git.io/streak-stats)
+<!--[technology used]-->
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009&hide=hack" width="95%" height="300px">
+ </div>
 
-![ Arun Kumar Singh Github stats](https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight)
+<div>
+<!--[![GitHub Streak]-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=dark" width="48%">
+<!--![ Arun Kumar Singh Github stats]-->
+<img src="https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight" width="48%">
+ </div>
+
 
 <br>
-<div>
-</div>
+
 <a href="https://github.com/arunsingh009/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=arunsingh009&theme=react-dark&hide_border=true">
   </a>
