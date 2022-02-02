@@ -33,11 +33,12 @@ You can click the Preview link to take a look at your changes.
 <!-- Arun singh github stats -->
 # My GitHub Stats  📈 
 <!--[technology used]-->
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009&hide=hack" width="95%" height="300px">
+<div align="center">
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009&hide=hack" width="95%" height="300px">-->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&layout=compact&theme=chartreuse-dark&langs_count=6" width="50%">
  </div>
 
-<div>
+<div align="center">
 <!--[![GitHub Streak]-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=dark" width="48%">
 <!--![ Arun Kumar Singh Github stats]-->
