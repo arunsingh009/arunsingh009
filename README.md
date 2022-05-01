@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 <!-- # Streaks -->
 ### Visitor Count
 <img src="https://profile-counter.glitch.me/arounsingh009/count.svg">
+<img src="https://github.com/arunsingh009/arunsingh/blob/main/github-metrics.svg">
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
