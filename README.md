@@ -56,7 +56,8 @@ You can click the Preview link to take a look at your changes.
 ### Visitor Count
 <img src="https://profile-counter.glitch.me/arunsingh009/count.svg">
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
-![Metrics](https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FCalcutta)
+<!-- ![Metrics](https://metrics.github.io/arunsingh009?template=classic&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FCalcutta) -->
+<img src="https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FCalcutta">
 
 <!-- ![](https://github.com/arunsingh009/stats/blob/master/generated/overview.svg) -->
 
