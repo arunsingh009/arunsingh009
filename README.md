@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 # My GitHub Stats  📈 
 <!--[technology used]-->
 <div align="center">
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009&hide=hack" width="95%" height="300px">-->
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009" width="95%" height="300px">-->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&layout=compact&theme=chartreuse-dark&langs_count=6" width="50%">
  </div>
 
