@@ -8,6 +8,8 @@
 arunsingh009/arunsingh009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Badges !
+[![@arunsingh009's Holopin board](https://holopin.io/api/user/board?user=arunsingh009)](https://holopin.io/@arunsingh009)
 ## 📫 Reach me out!
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ftrasvent)](https://www.linkedin.com/in/arun-singh-a66266176/)
