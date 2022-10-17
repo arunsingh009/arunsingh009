@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arunsingh009
+- 👋 Hi, I’m @arunsingh0009
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript along with Java.
+- 🌱 I’m currently learning JavaScript along with C and C++.
 - 💞️ I’m looking to collaborate on work related my learning
 - 📫  contact me through my gmail arunsingh641997@gmail.com
 
@@ -36,35 +36,35 @@ You can click the Preview link to take a look at your changes.
 # My GitHub Stats  📈 
 <!--[technology used]-->
 <div align="center">
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&show_icons=true&theme=algolia&repo=arunsingh009" width="95%" height="300px">-->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh009&layout=compact&theme=chartreuse-dark&langs_count=15" width="50%">
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh0009&show_icons=true&theme=algolia&repo=arunsingh009" width="95%" height="300px">-->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh0009&layout=compact&theme=chartreuse-dark&langs_count=15" width="50%">
  </div>
 
 <div align="center">
 <!--[![GitHub Streak]-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh009&theme=dark" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh0009&theme=dark" width="48%">
 <!--![ Arun Kumar Singh Github stats]-->
-<img src="https://github-readme-stats.vercel.app/api?username=arunsingh009&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=arunsingh0009&show_icons=true&theme=tokyonight" width="48%">
  </div>
 
 
 <br>
 
-<a href="https://github.com/arunsingh009/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=arunsingh009&theme=react-dark&hide_border=true">
+<a href="https://github.com/arunsingh0009/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=arunsingh0009&theme=react-dark&hide_border=true">
   </a>
 
 <!-- # Streaks -->
 ### Visitor Count
-<img src="https://profile-counter.glitch.me/arunsingh009/count.svg">
+<img src="https://profile-counter.glitch.me/arunsingh0009/count.svg">
 <!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
 <!-- ![Metrics](https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&config.timezone=Asia%2FCalcutta) -->
 <!-- <img src="https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FCalcutta"> -->
-<img src="https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&config.timezone=Asia%2FCalcutta">
+<img src="https://metrics.lecoq.io/arunsingh0009?template=classic&lines=1&config.timezone=Asia%2FCalcutta">
 <!-- <img src="https://github.com/arunsingh009/arunsingh009/blob/main/language.svg"> -->
 
 <!-- ![](https://github.com/arunsingh009/stats/blob/master/generated/overview.svg) -->
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
-![snake gif](https://github.com/arunsingh009/arunsingh009/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/arunsingh0009/arunsingh0009/blob/output/github-contribution-grid-snake.gif)
