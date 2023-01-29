@@ -50,9 +50,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<a href="https://github.com/arunsingh009/github-readme-activity-graph">
+<!-- <a href="https://github.com/arunsingh009/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=arunsingh009&theme=react-dark&hide_border=true">
-  </a>
+  </a> -->
 
 <!-- # Streaks -->
 ### Visitor Count <img src="https://user-images.githubusercontent.com/66819980/199572010-6057593b-9d0f-40f1-afc4-5f1b5cf71440.png" height="40px" width="40px">
