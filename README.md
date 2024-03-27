@@ -1,15 +1,8 @@
 - 👋 Hi, I’m Arun Kumar Singh
-- Frontend Developer at Digit Insurance
-- Passionate about building user-centric solutions and interactive web experiences
-- Continuously honing skills through practical application and ongoing learning
-- Engaged in Data Structures and Algorithms (DSA) to enhance problem-solving capabilities
-- Committed to professional growth and technological proficiency in frontend development
-<!--
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript along with C and C++.
 - 💞️ I’m looking to collaborate on work related my learning
 - 📫  contact me through my gmail arunsingh641997@gmail.com
--->
 
 <!---
 arunsingh009/arunsingh009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
