@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on work related my learning
 - 📫  contact me through my gmail arunsingh641997@gmail.com 
 -->
-## Hey, I'm [Arun Kumar Singh!](https://arunkumarsingh.netlify.app/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, I'm [Arun Kumar Singh!](https://arunkumarsinghPortfolio.netlify.app/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **Talking about Personal Stuffs:**
 
