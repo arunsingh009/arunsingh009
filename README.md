@@ -26,8 +26,8 @@
 arunsingh009/arunsingh009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Badges !
-[![@arunsingh009's Holopin board](https://holopin.io/api/user/board?user=arunsingh009)](https://holopin.io/@arunsingh009)
+<!-- ## Badges !
+[![@arunsingh009's Holopin board](https://holopin.io/api/user/board?user=arunsingh009)](https://holopin.io/@arunsingh009)-->
 <!-- ## 📫 Reach me out!
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ftrasvent)](https://www.linkedin.com/in/arun-singh-a66266176/)
@@ -74,16 +74,7 @@ You can click the Preview link to take a look at your changes.
   </a> -->
 
 <!-- # Streaks -->
-### Visitor Count <img src="https://user-images.githubusercontent.com/66819980/199572010-6057593b-9d0f-40f1-afc4-5f1b5cf71440.png" height="40px" width="40px">
-<img src="https://profile-counter.glitch.me/arunsingh009/count.svg">
-<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
-<!-- ![Metrics](https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&config.timezone=Asia%2FCalcutta) -->
-<!-- <img src="https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FCalcutta"> -->
-<!--<img src="https://metrics.lecoq.io/arunsingh009?template=classic&lines=1&config.timezone=Asia%2FCalcutta">-->
-<!-- <img src="https://github.com/arunsingh009/arunsingh009/blob/main/language.svg"> -->
 
-<!-- ![](https://github.com/arunsingh009/stats/blob/master/generated/overview.svg) -->
+<!-- ### Watch my contribution graph being eaten by a Snake! 🐍
 
-### Watch my contribution graph being eaten by a Snake! 🐍
-
-![snake gif](https://github.com/arunsingh009/arunsingh009/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/arunsingh009/arunsingh009/blob/output/github-contribution-grid-snake.gif)-->
