@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 - ![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap5&logoColor=white)
 - ![React Badge](https://img.shields.io/badge/React-20232A?style=plastic&logo=bootstrap5&logoColor=61DAFB)
-- ![Angular Badge](https://img.shields.io/badge/Angular13-c3002f?style=plastic&logo=bootstrap5&logoColor=61DAFB)
+- ![Angular Badge](https://img.shields.io/badge/Angular13-c3002f?style=plastic&logo=bootstrap5&logoColor=61DAFB)![Angular Badge](https://img.shields.io/badge/Angular15-c3002f?style=plastic&logo=bootstrap5&logoColor=61DAFB)![Angular Badge](https://img.shields.io/badge/Angular17-c3002f?style=plastic&logo=bootstrap5&logoColor=61DAFB)
 
 ## 👩‍💻  Languages I used!
 
